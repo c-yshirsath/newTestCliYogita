@@ -1,8 +1,8 @@
 {
   "work": {
-    "copadouserstoryid": "a28RR0000026a1FYAQ",
-    "copadouserstoryname": "US-0060996",
-    "copadobasebranch": "main",
+    "copadouserstoryid": "a28RR0000026XRZYA2",
+    "copadouserstoryname": "US-0060995",
+    "copadobasebranch": "test",
     "copadoenvbranch": "yogitadev1",
     "copadolastcommit": null
   }
