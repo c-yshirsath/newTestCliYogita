@@ -2,7 +2,7 @@
   "work": {
     "copadouserstoryid": "a28RR0000026XRZYA2",
     "copadouserstoryname": "US-0060995",
-    "copadobasebranch": "shared-branch",
+    "copadobasebranch": "this-is-a-very-long-branch-name-that-exceeds-normal-limits-for-testing-purposes-only",
     "copadoenvbranch": "yogitadev1",
     "copadolastcommit": null
   }
