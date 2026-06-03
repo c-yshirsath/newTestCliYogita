@@ -1,1 +1,2 @@
 tetbfjbd
+public class MyClass {}
